@@ -9,7 +9,7 @@ I'm a hackar (not a real hacker)💻!
  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackarofficiaL&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/hackarofficial)
   
   
-  ## Technologies and Tools I use:
+  ## Technologies and Tools I use and i want to use in future:
 
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
 [<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp' width='40' height='40' />](https://nodejs.org/)
