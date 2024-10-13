@@ -1,5 +1,5 @@
 <h1 align="center">
-I'm a hackar (not a real hacker)💻!
+I'm a ryuga 💻!
 </h2> 
 
 <div align="center">
