@@ -27,7 +27,7 @@ I'm a ryuga 💻!
 
 ## 🔭 I'm currently working on
 
-- Private Project 🤫
+- chaty
 
 ### 🤝 Connect with me:
 
