@@ -1,6 +1,6 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF0404&width=435&lines=hi+i+am+ryuga;a+frontend+web+developer;nice+to+meet+you)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&color=FF0404&width=435&lines=hi+i+am+ryuga;a+frontend+web+developer;nice+to+meet+you)](https://git.io/typing-svg)
+
 <div align="center">
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackarofficial&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&border_radius=20&hide_border=true&text_color=ff3030)](https://github.com/hackarofficial)
