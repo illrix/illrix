@@ -1,5 +1,5 @@
 <h1 align="center">
-I'm a ryuga 💻!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF0404&width=435&lines=hi+i+am+ryuga;a+frontend+web+developer;nice+to+meet+you)](https://git.io/typing-svg)
 </h2> 
 
 <div align="center">
