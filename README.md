@@ -4,9 +4,9 @@ I'm a ryuga 💻!
 </h2> 
 <div align="center">
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackarofficial&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&border_radius=20&hide_border=true&text_color=ff3030)](https://github.com/hackarofficial)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogryuga&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&border_radius=20&hide_border=true&text_color=ff3030)](https://github.com/ogryuga)
 
- [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackarofficiaL&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/hackarofficial)
+ [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogryuga&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/ogryuga)
   
   
   ## Technologies and Tools I use and i want to use in future:
