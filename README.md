@@ -23,7 +23,7 @@ I'm a illurix 💻!
 
 ## 🔭 I'm currently working on
 
-- chaty
+- nothing
 
 ### 🤝 Connect with me:
 
