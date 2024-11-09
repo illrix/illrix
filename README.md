@@ -23,7 +23,7 @@ I'm a illurix 💻!
 
 ## 🔭 I'm currently working on
 
-- nothing
+- pegasus web version
 
 ### 🤝 Connect with me:
 
