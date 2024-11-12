@@ -29,4 +29,4 @@ I'm a illurix 💻!
 
 [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=FFFFFF&labelColor=2c2f33)](https://discordapp.com/users/1289826576816672851)
 
-[![youtube](https://www.youtube.com/@illurix95)
+[[youtube](https://www.youtube.com/@illurix95)
