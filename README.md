@@ -108,6 +108,3 @@ Some things I enjoy exploring outside conventional programming:
   <i>"Curiosity is the engine. Creation is the objective."</i>
 </p>
 
-<p align="center">
-  <sub>ILLURIX © 2026 · Still under construction.</sub>
-</p>
