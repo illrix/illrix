@@ -1,5 +1,3 @@
-# `> HELLO_WORLD.exe`
-
 <h1 align="center">ILLURIX</h1>
 
 <h3 align="center">A.K.A. Aarav Sharma</h3>
